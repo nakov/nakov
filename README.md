@@ -5,3 +5,7 @@ I am a keen **software engineer**, inspirational **technical trainer** and innov
 ### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nakov&column=10)](#)
+
+### GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakov)](#)
